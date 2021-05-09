@@ -1,0 +1,18 @@
+div.chapter.hidden {
+    display: none;
+}
+span.footnote {
+    font-style: italic;
+}
+.pulled {
+    position: absolute;
+    width: 120px;
+    top: -20px;
+    right: -180px;
+    padding: 20px;
+    font: italic 1.2em "Times New Roman", Times, serif;
+    background: #e5e5e5;
+    border: 1px solid #999;
+    border-radius: 8px;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.6);
+}

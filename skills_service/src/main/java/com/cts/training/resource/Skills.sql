@@ -1,1 +1,0 @@
- insert into Skills(id,username, level , description ,user_id ) values(1, 'kissu', 'advanced','java', 1001);

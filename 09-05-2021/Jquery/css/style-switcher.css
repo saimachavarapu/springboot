@@ -1,0 +1,34 @@
+.switcher {
+    width: fit-content;
+    display: block;
+    float: right;
+    padding: 0px 20px 10px 20px;
+    margin-right: 0px;
+    border: 2px solid black;
+    background-color: #ccc;
+}
+
+body.large .chapter {
+    font-size: 1.5em;
+}
+
+.selected {
+    font-weight: bold;
+}
+
+body.narrow .chapter {
+    width: 250px;
+}
+
+#switcher h3 {
+    font-weight: bold;
+}
+
+.hidden {
+    display: none;
+}
+
+.hover {
+    cursor: pointer;
+    background-color: #afa;
+}
